@@ -1,0 +1,2 @@
+It is a survey formed developed using javascript where a person can submit his survey, view his submission and view the overall survey result.
+This is developed in javascript and the data is stored in a firebase database in backend.
